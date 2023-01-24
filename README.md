@@ -12,14 +12,13 @@
 ## 2. 사용 기술
 * HTML5
 * CSS
-* SASS
 * JavaScript
 
 </br>
 
 ## 3. 프로젝트 목표
 * To Do 앱 클론 코딩을 통한 JavaScript 기초 학습
-* 이전에 배웠던 HTML, CSS, SASS 복습
+* 이전에 배웠던 HTML, CSS 복습
 * 외부 API 활용
 
 </br>
