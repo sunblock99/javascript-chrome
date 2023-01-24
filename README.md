@@ -39,3 +39,6 @@
   - [x] 날씨 상태에 맞는 아이콘 로딩  
 
 </br>
+
+수료증
+https://nomadcoders.co/certs/caffd692-26c6-4fa7-822b-7255350bb59f
